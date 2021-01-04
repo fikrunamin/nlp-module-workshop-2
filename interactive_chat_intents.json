@@ -1,0 +1,72 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi there",
+                "Hello",
+                "What's up",
+                "Good day",
+                "Yo"
+            ],
+            "responses": [
+                "Hi",
+                "Hello",
+                "Hi there, can I help you?"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "See you again",
+                "Goodbye",
+                "Bye",
+                "See you later",
+                "byebye"
+            ],
+            "responses": [
+                "See you!",
+                "Have a nice day",
+                "Thank you and Goodbye!"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "noanswer",
+            "patterns": [
+                "sefihesfhsef",
+                "eufeblfkapdndvls",
+                "oeirwporu3844iughelskdfb",
+                "sifosldkvbgeuofsl.ndv"
+            ],
+            "responses": [
+                "Sorry, I can't understand you.",
+                "Sorry, I don't understand.",
+                "Please give me more information."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "details",
+            "patterns": [
+                "How can you help me?",
+                "What can you do?",
+                "Please Tell me more about yourself",
+                "Please your details"
+            ],
+            "responses": [
+                "I am an interactive chatbot which can help you to diagnose your problems on your dental health. You can start describe your symptoms now."
+            ],
+            "context": [
+                ""
+            ]
+        }
+    ]
+}

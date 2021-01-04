@@ -1,0 +1,208 @@
+{
+    "intents": [
+        {
+            "tag": "Periodontal Abscess",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "You MAY suffer from Periodontal Abscess, Infection that is located around the periodontal pocket as well as can resulting in ligament damage periodontal and alveolar bone."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Peripical Abscess",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "You MAY suffer from Peripical Abscess, A collection of pus at the root of a tooth, usually caused by an infection that has spread from a tooth to the surrounding tissues."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Alveolar Osteitis",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "You MAY suffer from Alveolar Osteitis, A painful dental condition that sometimes happens after you have a permanent adult tooth extracted. Dry socket is when the blood clot at the site of the tooth extraction fails to develop, or it dislodges or dissolves before the wound has healed."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Dental Abrasion",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "You MAY suffer from Dental Abrasion, Is another form of dental damage caused by the forces applied to the teeth. Rather than being caused by tooth on tooth contact, abrasion is typically caused by outside elements, like aggressively brushing the teeth."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Bruxism",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "You MAY suffer from Bruxism, The involuntary gnashing, grinding, or clenching of teeth. It is usually an unconscious activity, whether the individual is awake or asleep"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Gingivitis",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "You MAY suffer from Gingivitis, A common and mild form of gum disease (periodontal disease) that causes irritation, redness and swelling (inflammation) of your gingiva, the part of your gum around the base of your teeth."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Infected Teeth",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "You MAY suffer from Infected Teeth, A pocket of pus that can form in different parts of a tooth as a result of a bacterial infection. It’s sometimes called a dental abscess. An abscessed tooth causes moderate to severe pain that can sometimes radiate to your ear or neck."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Pain at the rear teeth",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "You MAY suffer from Pain at the rear teeth, Sinus infection can be referred to the rear teeth pain which mean can cause a toothache ,specifically in the upper rear teeth, which are close to the sinuses."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Angular Ceilitis",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "You MAY suffer from Angular Ceilitis, Inflammation and fissuring radiating from the commissures (angles) of the mouth secondary to predisposing factors such as nutritional deficiencies, atopic dermatitis, or Candida albicans (yeast) infection. Also called angular stomatitis, commissural cheilitis, or perlèche."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Caries Media",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "You MAY suffer from Caries Media, Extensive structural defect. Caries has penetrated up to the dentin and spreads two-dimensionally beneath the enamel defect where the dentin offers little resistance."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Caries Profunda",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "You MAY suffer from Caries Profunda, Deep structural defect. Caries has penetrated up to the dentin layers of the tooth close to the pulp."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Caries Superficial",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "You MAY suffer from Caries Superficial, Enamel caries, wedge-shaped structural defect. Caries has affected the enamel layer, but has not yet penetrated the dentin."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Candidiasis",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "You MAY suffer from Candidiasis, An infection caused by a species of the yeast Candida, usually Candida albicans."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Calculus (dental)",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "You MAY suffer from Calculus (dental), A form of hardened dental plaque"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Pulp Necrosis",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "You MAY suffer from Pulp Necrosis, A clinical diagnostic category indicating the death of cells and tissues in the pulp chamber of a tooth with or without bacterial invasion."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Periodontitis",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "You MAY suffer from Periodontitis, Inflammation of the tissue around the teeth, often causing shrinkage of the gums and loosening of the teeth."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "cant_find_disease",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "Sorry we can't find any related disease in your case. If you still feel uncomfortable, kindly proceed to the nearest dental clinic ASAP."
+            ],
+            "context": [
+                ""
+            ]
+        }
+    ]
+}
